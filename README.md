@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kajeban
+- 👋 Hi, I’m Kajeban
 - I'm a third year Electronic and Computer Engineering student at the University of Nottingham
 
 <!---
