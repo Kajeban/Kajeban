@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kajeban
-- I'm a third year Electronic and Computer Engineering student at the University of Nottingham
+- I'm an Electronic and Computer Engineering student at the University of Nottingham (Currently on my Industrial Placement year at UBS)
 
 <!---
 Kajeban/Kajeban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
